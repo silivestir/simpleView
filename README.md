@@ -30,7 +30,7 @@ To use the SimpleLayout library in your project, you can directly include the Ja
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>SimpleLayout Example</title>
-    <script src="path/to/SimpleLayout.js" defer></script>
+    <script src="https://cdn.jsdelivr.net/gh/silivestir/simpleView@main/simpleView.js" defer></script>
 </head>
 <body>
     <!-- Your HTML structure here -->
@@ -38,7 +38,6 @@ To use the SimpleLayout library in your project, you can directly include the Ja
 </html>
 ```
 
-Make sure to replace `path/to/SimpleLayout.js` with the actual path to your JavaScript file.
 
 ## Usage
 
